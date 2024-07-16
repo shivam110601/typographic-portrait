@@ -6,4 +6,4 @@ Example:
 
 ![result_image](https://github.com/user-attachments/assets/f5b50824-3bb0-4b66-8f16-bc34cf94de98)
 
-
+PS.: When using the Colab file don't forget to upload the font file listed here.
